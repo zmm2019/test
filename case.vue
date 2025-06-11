@@ -8,7 +8,7 @@
             <el-radio :label="1">污水</el-radio>
             <el-radio :label="2">雨水</el-radio>
           </el-radio-group>
-        </div>
+        </div>   
       </div>
     </template>
     <el-row type="flex" class="header" v-if="zoomIcon">
